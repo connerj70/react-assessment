@@ -1,0 +1,12 @@
+.add-task {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin: 100px auto;
+    margin-bottom: 20px;
+}
+
+.add-task input {
+    margin-top: 10px;
+    margin-bottom: 10px
+}
