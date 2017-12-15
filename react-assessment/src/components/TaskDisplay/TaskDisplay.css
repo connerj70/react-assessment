@@ -1,7 +1,17 @@
-.task-item {
+.task-completed {
     border: 1px solid black;
     width: 30%;
     margin: 0 auto;
     margin-bottom: 5px;
     margin-top: 5px;
+    background-color: grey;
+}
+
+.task-not-completed {
+    border: 1px solid black;
+    width: 30%;
+    margin: 0 auto;
+    margin-bottom: 5px;
+    margin-top: 5px;
+
 }
